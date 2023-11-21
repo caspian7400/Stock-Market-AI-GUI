@@ -23,7 +23,7 @@ Our task in reinforcement learning is to find the parameters (weights and biases
 For more info check out this [article](https://towardsdatascience.com/reinforcement-learning-without-gradients-evolving-agents-using-genetic-algorithms-8685817d84f)
 
 ## Requirements
-* Python 3.6.2 (https://www.python.org/downloads/release/python-362/)
+* Python 3.10.0 (https://www.python.org/downloads/release/python-362/)
 * Django (https://www.djangoproject.com/)
 * Numpy (https://pypi.org/project/numpy/)
 * Tensorflow (https://pypi.org/project/tensorflow/)
